@@ -2,7 +2,7 @@
 
 _Minimal Express starter code in TypeScript with a nice error handling middleware._
 
-## `https://typebits.vercel.app/`
+## https://typebits.vercel.app/
 
 ## Usage
 
