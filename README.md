@@ -1,4 +1,4 @@
-# `ts-express-starter`
+# 🚀 ts-express-starter 👾
 
 _Minimal Express starter code in TypeScript with a nice error handling middleware._
 
@@ -8,4 +8,4 @@ _Minimal Express starter code in TypeScript with a nice error handling middlewar
 2. Move into the working directory: `cd ts-express-starter`
 3. Install dependencies: `yarn add`
 
-- To run the server in localhost: `npm start`
+#### To run the server in localhost: Run `npm start`
